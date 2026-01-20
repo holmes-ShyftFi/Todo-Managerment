@@ -1,7 +1,7 @@
 ### TODO MANAGEMENT – ODOO TRAINING MODULE SPEC 
 
-_Module name_: training_todo 
-_Purpose:_ This module is designed as a learning project for Odoo developers. It covers core Odoo concepts such as models, views, workflows, wizards, security, record rules, activities, cron jobs, and basic reporting. 
+Module name: training_todo
+Purpose: This module is designed as a learning project for Odoo developers. It covers core Odoo concepts such as models, views, workflows, wizards, security, record rules, activities, cron jobs, and basic reporting. 
 
 ## 1. Functional Specification 
 Overview: The module provides a Todo / Task management system where users can create, assign, track, and complete tasks. 
