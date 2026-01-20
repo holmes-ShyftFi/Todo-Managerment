@@ -25,7 +25,7 @@ Overview: The module provides a Todo / Task management system where users can cr
 - Kanban view grouped by status 
 - Search view with filters and group by options 
 
-**Bulk Update Wizard: **
+**Bulk Update Wizard:**
 - Allows updating assigned user, deadline, and priority for multiple tasks. 
 - Done tasks cannot be updated. 
 
