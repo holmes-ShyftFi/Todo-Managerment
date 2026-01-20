@@ -36,7 +36,7 @@ Overview: The module provides a Todo / Task management system where users can cr
 
 ## 2. Technical Specification 
 
-**Todo Task Fields: **
+**Todo Task Fields:**
 - Title: Task name 
 - Description: Task details 
 - Owner: Task creator 
@@ -64,7 +64,7 @@ Todo
 - Reporting 
 - Task Analysis 
 
-**Non-Functional Requirements: **
+**Non-Functional Requirements:**
 - Follow Odoo best practices 
 - No hardcoded IDs 
 - Extendable and testable 
